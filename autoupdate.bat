@@ -33,8 +33,8 @@ set rdpwrap_ini_update_github_1="https://raw.githubusercontent.com/sebaxakerhtc/
 set rdpwrap_ini_update_github_2="https://raw.githubusercontent.com/affinityv/INI-RDPWRAP/master/rdpwrap.ini"
 ::
 set autoupdate_version=1.2
-set autoupdate_url="https://raw.githubusercontent.com/asmtron/rdpwrap/master/bin/autoupdate.bat"
-set autoupdate_ver_url="https://raw.githubusercontent.com/asmtron/rdpwrap/master/bin/autoupdate.ver"
+set autoupdate_url="https://raw.githubusercontent.com/IHKYoung/RDPX/baseline/autoupdate.bat"
+set autoupdate_ver_url="https://raw.githubusercontent.com/IHKYoung/RDPX/baseline/autoupdate.ver"
 set autoupdate_bat="%~dp0autoupdate.bat"
 set autoupdate_new_bat="%~dp0autoupdate_new.bat"
 set autoupdate_log="%~dp0autoupdate.log"
